@@ -1,0 +1,28 @@
+:root {
+   
+    font-size: 62.5%; /* 1rem = 10px */
+   
+    /* Primary Colors (Backgrounds) */
+
+    --brand-red: #f8353d;
+    --brand-white: #f8f8f8; 
+
+    /* Secondary Colors (Titles and Paragraphs) */
+
+    --gray-headline: #061800;
+    --gray-paragraph: #384633;
+    
+
+    /* Typography */
+
+    --font-title: 'Lato', sans-serif;
+
+    /* Calc Variables */
+
+    --nav-height: 8rem;
+}
+
+.container { 
+    padding: 0rem 4rem;
+}
+
